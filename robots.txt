@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lestivulp.github.io/lestivulp.txt.gz
+Sitemap: https://lestivulp.github.io/app/lestivulp.txt.gz
+Sitemap: https://lestivulp.github.io/assets/lestivulp.txt.gz
+Sitemap: https://lestivulp.github.io/css/lestivulp.txt.gz
+Sitemap: https://lestivulp.github.io/includes/lestivulp.txt.gz
+Sitemap: https://lestivulp.github.io/item/lestivulp.txt.gz
+Sitemap: https://lestivulp.github.io/src/lestivulp.txt.gz
